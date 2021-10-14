@@ -1,5 +1,4 @@
 # Exercise-03b-Tweening-and-Screen-Shake
-# Exercise-03b-Tweening-and-Screen-Shake
 
 Exercise for MSCH-C220, 23 September 2021
 
